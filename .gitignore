@@ -110,8 +110,14 @@ backend/data/
 # ===================
 # 本地配置文件（包含敏感信息）
 # ===================
+/config.yaml
+/data/
+/bin/
+/sub2api.pid
 backend/config.yaml
 deploy/config.yaml
+backend/data/
+backend/bin/
 backend/.installed
 
 # ===================
